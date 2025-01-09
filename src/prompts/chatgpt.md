@@ -1,4 +1,4 @@
-## 🧠 Prompts
+## 🧠 Prompts no Chat GPT
 
 
 TÍTULO：
