@@ -1,4 +1,7 @@
 <p align="center">
+    Capa do Podcast
+</p>
+<p align="center">
 <img 
     src="./assets/cover.png"
     width="300"
@@ -18,9 +21,7 @@
 </a>
 </p>
 
-<p align="center">
-    Capa do Podcast
-</p>
+
 
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
