@@ -1,1 +1,11 @@
+## 🧠 Prompt no Eleven Labs：
 
+
+EPISÓDIO DE PODCAST：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  INTRODUÇÃO  | Bem-vindos, pequenos cavaleiros e damas da fé, ao "Templários do Altar – Desvendando os Sacramentos da Vida Cristã"! Eu sou o Webert, seu guia nesta cruzada espiritual. Hoje vamos explorar juntos os mistérios e as maravilhas dos sacramentos que iniciam nossa caminhada cristã. Preparem seus escudos, porque nossa jornada começa agora!
+|  CURIOSIDADE 1  | Vocês sabiam que o Sacramento do Batismo é como receber uma armadura invisível? Isso mesmo! Quando somos batizados, é como se Deus colocasse em nós uma armadura protetora que nos fortalece contra o mal e nos torna parte da grande família da Igreja. E tem mais: no momento do Batismo, um padrinho e uma madrinha são escolhidos para nos acompanhar nessa aventura de fé, como verdadeiros escudeiros que nos ajudam a permanecer no caminho certo.                        |
+|  CURIOSIDADE 2  | Agora, vamos falar do Sacramento da Eucaristia. Sabiam que este é chamado o "banquete sagrado"? Quando recebemos a Comunhão, estamos acolhendo o próprio Jesus em nosso coração. Ele se torna nosso alimento espiritual, nos fortalecendo para as batalhas do dia a dia. É como se, ao comungar, recebêssemos uma energia especial, vinda diretamente do Rei do Universo, para sermos melhores e mais corajosos nas missões que Deus nos confia.                              
+|  FINALIZAÇÃO  | E assim encerramos nossa aventura de hoje! Lembrem-se: o Batismo nos reveste de fé, e a Eucaristia nos fortalece para vivermos como verdadeiros templários de Cristo. Eu sou o Webert, e esse foi o "Templários do Altar" dessa semana. Até a próxima, e que Deus abençoe cada passo da sua jornada!              |                           
