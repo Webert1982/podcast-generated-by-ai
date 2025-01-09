@@ -21,20 +21,26 @@ ROTEIRO：
 Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de Catequese, focado nos sacramentos da Iniciação Cristã cujo nome é " Templários do Altar - Desvendando os Sacramentos da Vida Cristã " que tem foco na Igreja Católica, com o público-alvo de crianças entre 10 e 13 anos
 
 O formato do roteiro deve ser
+
 [INTRODUÇÃO]
+
 [CURIOSIDADE 1]
+
 [CURIOSIDADE 2]
+
 [FINALIZAÇÃO]
 
+
 {REGRAS}
-• no bloco [INTRODUÇÃO] substitua por uma introdução igual as introduções dos vídeos do canal Resident Evil Database, como se fossem escritos pela Moni
-• no bloco [CURIOSIDADE 1] substitua por uma curiosidade sobre o Sacramento do Batismo
-• no bloco [CURIOSIDADE 2] sobre o Sacramento da Eucaristia
-• no bloco [FINALIZAÇÃO] substitua por uma despedida descontraída com o final 'Eu sou Webert e esse foi o Templários do Altar dessa semana'
-• use termos de fácil explicação
-• o podcast vai ser apresentado somente por uma pessoa, um catequista chamado Webert
-• o podcast deve ser curto
+- no bloco [INTRODUÇÃO] substitua por uma introdução igual as introduções dos vídeos do canal Resident Evil Database, como se fossem escritos pela Moni
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade sobre o Sacramento do Batismo
+- no bloco [CURIOSIDADE 2] sobre o Sacramento da Eucaristia
+- no bloco [FINALIZAÇÃO] substitua por uma despedida descontraída com o final 'Eu sou Webert e esse foi o Templários do Altar dessa semana'
+- use termos de fácil explicação
+- o podcast vai ser apresentado somente por uma pessoa, chamada Webert
+- o podcast deve ser curto
+
 
 {REGRAS NEGATIVAS}
-• Não use termos técnicos
-• Não ultrapasse 5 minutos de duração
+- Não use termos técnicos
+- Não ultrapasse 5 minutos de duração
