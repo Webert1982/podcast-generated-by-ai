@@ -24,7 +24,7 @@
 
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado">Áudio do Podcast</audio>
+    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"> alt="Áudio do Podcast"</audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
