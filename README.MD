@@ -30,7 +30,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Repositório desenvolvido para o Desafio de Projeto "Criando um Podcast co IAs Generatinas", do Bootcamp CAIXA - IA Generativa com Microsoft Copilot na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
@@ -39,7 +39,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Leonardo.Ai](https://app.leonardo.ai/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
