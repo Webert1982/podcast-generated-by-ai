@@ -20,10 +20,9 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Repositório desenvolvido para o Desafio de Projeto "Criando um Podcast com IAs Generativas", do Bootcamp CAIXA - IA Generativa com Microsoft Copilot na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Repositório desenvolvido para o Desafio de Projeto "Criando um Podcast com IAs Generativas", do Bootcamp CAIXA - IA Generativa com Microsoft Copilot da plataforma da [DIO](https://dio.me)
 
 O objetivo desse Projeto é gerar um podcast utilizando ferramentas de IA empregando prompts avançados.
-
 Foi utilizada uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
@@ -35,19 +34,17 @@ Foi utilizada uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via Chat GPT
+- Título e Roteiro gerados via Chat GPT
 - Audio gerado pela Eleven Labs
-- Imagem de capa gerado no Leonardo.Ai
-- Capcut utilizado para tratar aúdio e adicionar sons de fundo
+- Imagem de capa gerada no Leonardo.Ai
+- Capcut utilizado para tratar o aúdio e adicionar sons de fundo
 
 ## 📚 Resultados
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- [Imagem da Capa](https://github.com/Webert1982/podcast-generated-by-ai/tree/main/output/Templar_knight_podcaster.jpg)
+- [Áudio do Podcast](https://github.com/Webert1982/podcast-generated-by-ai/tree/main/output/podcast_editado.MP3)
 
-
-## 🛠️ Instruções de execução
+## 🛠️ Execução
 
 Utilizei os prompts salvos em `src/prompts` para criar um podcast de maneira automatizada, seguindo o passo a passo abaixo:
 
