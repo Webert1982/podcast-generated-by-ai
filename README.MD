@@ -14,23 +14,13 @@
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
         alt="DIO - Code The Future">
 </a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
 </p>
 
-
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"> alt="Áudio do Podcast"</audio>
-</div>
 
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Repositório desenvolvido para o Desafio de Projeto "Criando um Podcast com IAs Generatinas", do Bootcamp CAIXA - IA Generativa com Microsoft Copilot na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Repositório desenvolvido para o Desafio de Projeto "Criando um Podcast com IAs Generativas", do Bootcamp CAIXA - IA Generativa com Microsoft Copilot na plataforma da [DIO](https://dio.me)
 
 O objetivo desse Projeto é gerar um podcast utilizando ferramentas de IA empregando prompts avançados.
 
