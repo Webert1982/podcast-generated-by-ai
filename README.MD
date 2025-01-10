@@ -49,11 +49,11 @@ Foi utilizada uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Instruções de execução
 
-Utilizei os prompts dentro do diretório `src/prompts` para criar um podcast de maneira automatizada, seguindo o passo a passo abaixo:
+Utilizei os prompts salvos em `src/prompts` para criar um podcast de maneira automatizada, seguindo o passo a passo abaixo:
 
-- 🤖 1. Usei os prompts em <a href="https://github.com/Webert1982/podcast-generated-by-ai/blob/main/src/prompts/chatgpt.md">Chat GPT</a> src/prompts/chatgpt.md no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 1. Usei os prompts em <a href="https://github.com/Webert1982/podcast-generated-by-ai/blob/main/src/prompts/chatgpt.md">Chat GPT</a> para gerar o título e o roteiro no `chagpt`
+- 🤖 2. Usei o prompt de roteiro gerado pelo chatgpt em <a href="https://github.com/Webert1982/podcast-generated-by-ai/blob/main/src/prompts/elevenlabs.md">Eleven Labs</a> para gerar o áudio no `elevenlabs`
+- 🤖 3. Usei o prompt em <a href="https://github.com/Webert1982/podcast-generated-by-ai/blob/main/src/prompts/leonardoai.md">Leonardo.Ai</a> para gerar a imagem de capa no `leonardo.ai`
 
 ## 👨‍💻 Criador
 
