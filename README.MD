@@ -49,9 +49,9 @@ Foi utilizada uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Utilizei os prompts dentro do diretório `src/prompts` para criar um podcast de maneira automatizada, seguindo o passo a passo abaixo:
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
+- 🤖 1. Usei os prompts em <a href="https://github.com/Webert1982/podcast-generated-by-ai/blob/main/src/prompts/chatgpt.md">Chat GPT</a> src/prompts/chatgpt.md no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
